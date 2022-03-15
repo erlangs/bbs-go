@@ -16,6 +16,7 @@ bbs-go
 
 bbs-go.yaml
 bbs-go.prod.yaml
+bbs-go.erlangs.yaml
 
 .idea/*
 build/*
